@@ -1,5 +1,4 @@
 #labels Featured
-=LibraryDocumentation=
 _Keyword documentation_
 
 Here are the keyword documentation links for AutoItLibrary by release:
