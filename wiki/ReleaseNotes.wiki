@@ -4,16 +4,16 @@
 
 ===New Feature Summary===
 
-  * No longer requires !PIL in order to run.  The installation and use of !PIL is now a user option.
+  * No longer requires PIL in order to run.  The installation and use of PIL is now a user option.
   * Now works with Python 2.5 or 2.6.
-  * Now works, including the self-test suite, with !WinXP, !WinVista and Win7.
+  * Now works, including the self-test suite, with WinXP, !WinVista and Win7.
 
 ===List of Fixes and Enhancements in 1.1===
 
 || *ID* || *Type* || *Priority* || *Summary* ||
 || [http://code.google.com/p/robotframework-autoitlibrary/issues/detail?id=1 Issue 1]   || Defect || Medium     || !AutoItLibrary will not launch in Windows 7 Ult x32 ||
-|| [http://code.google.com/p/robotframework-autoitlibrary/issues/detail?id=2 Issue 2]   || Defect || Low        || !PIL pops error dialogs during installation on Windows 7 Ult x32                         ||
-|| [http://code.google.com/p/robotframework-autoitlibrary/issues/detail?id=3 Issue 3]   || Defect || High       || Installation of !PIL is not silent.                                                    ||
+|| [http://code.google.com/p/robotframework-autoitlibrary/issues/detail?id=2 Issue 2]   || Defect || Low        || PIL pops error dialogs during installation on Windows 7 Ult x32                         ||
+|| [http://code.google.com/p/robotframework-autoitlibrary/issues/detail?id=3 Issue 3]   || Defect || High       || Installation of PIL is not silent.                                                    ||
 || [http://code.google.com/p/robotframework-autoitlibrary/issues/detail?id=4 Issue 4]   || Defect || Medium     || Not compatible with "python2.6".                                                        ||
 || [http://code.google.com/p/robotframework-autoitlibrary/issues/detail?id=7 Issue 7]   || Defect || Medium     || !AutoItLibrary Won't Install on Vista                                                    ||
 || [http://code.google.com/p/robotframework-autoitlibrary/issues/detail?id=8 Issue 8]   || Defect || Medium     || problem with "get active image window and transparent windows.                          ||
